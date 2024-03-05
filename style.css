@@ -1,0 +1,17 @@
+* {
+    background-color: #000;
+}
+
+.heading {
+    font-size: 40px;
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 45px 0px;
+}
+
+#snakeCanvas {
+    border: 1px solid #ffff;
+    display: block;
+    margin: 20px auto;
+}
